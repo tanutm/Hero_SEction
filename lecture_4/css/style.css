@@ -29,3 +29,8 @@ body{
 button:hover{
     background-color: white;
 }
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
